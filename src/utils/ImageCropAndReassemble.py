@@ -221,7 +221,7 @@ if __name__ == "__main__":
     crop_size = 640  # Selecting the size the model was trained on.
     
     # Defining paths.
-    image_path = "/turkey .jpeg"  
+    image_path = "/maxar.jpeg"  
     output_crop_folder = "/data/external/cropped/input" 
     output_folder = "/data/external/cropped/output"
 

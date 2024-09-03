@@ -24,7 +24,7 @@ The code used for this dissertation is available on [GitHub](https://github.com/
 
 ## Acknowledgments
 
-Acknowledgment is given to the xView2 dataset for providing the necessary data used in this project, and to Ultralytics for their contributions to the YOLO model, which was utilised for model training and predictions in this work.
+Acknowledgment is given to xView2 for providing the necessary data, Maxar for their satellite imagery used for predictions, and Ultralytics for their contributions to the YOLO model.
 
 ## Description of Scripts Used for Data Processing, Model Training, and Visualisations
 

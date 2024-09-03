@@ -1,0 +1,12 @@
+names:
+- no-damage
+- minor-damage
+- major-damage
+- destroyed
+nc: 4
+path: ''
+train: /data/final/train
+val: /data/final/val
+test: /data/final/test
+
+

@@ -197,7 +197,7 @@ def process_and_reassemble(crop_folder, model, output_folder, crop_size, image_s
 
         # Getting model predictions.
         masks, boxes, labels = get_outputs(image, model)
-        predicted_mask_overlay = draw_segmentation_map(image, masks, boxes, labels)
+        predicted_mask_overlay = draw_segmentation_map(image, masks, labels)
         predicted_mask = draw_predicted_mask(masks, labels, img_h, img_w)
 
         # Saving individual images.

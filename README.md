@@ -3,7 +3,7 @@ MDs
 
 ## Overview
 
-The code used for this dissertation is available on [GitHub](https://github.com/lnlk79/MDs), and the table below provides a description of each script. To reproduce the results, follow the steps outlined below.
+The table below provides a description of each script. To reproduce the results, follow the steps outlined below.
 
 ## Reproducing the Results
 
